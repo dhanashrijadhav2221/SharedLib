@@ -1,3 +1,4 @@
-def call(name){
-    echo "Hey ${name}, How are you?"
+def call(url){
+    echo "Gitcheckout: ${url}"
+    
 }
